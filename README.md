@@ -25,19 +25,6 @@ Motor Mate 4x4 serves the Perth, Western Australia community. For the latest bus
 
 **[Visit Motor Mate 4x4](https://motormate4x4.com.au/)**
 
-## Landing page
-
-This repository includes a responsive HTML landing page (`index.html`) that introduces Motor Mate 4x4, outlines its key service categories and links visitors to the official website.
-
-### Publish with GitHub Pages
-
-1. Upload `index.html` and `README.md` to the root of this repository.
-2. Open **Settings → Pages** in the repository.
-3. Under **Build and deployment**, select **Deploy from a branch**.
-4. Select the `main` branch and `/ (root)` folder, then save.
-5. Wait for GitHub Pages to publish the site. The published URL will be shown in the Pages settings.
-
-The repository must be public for GitHub Pages to be available on plans where private-repository Pages publishing is not included. Check your GitHub plan and repository settings.
 
 ---
 
